@@ -1,3 +1,8 @@
+//Name: Ethan Hofsteen
+//Date: 1/18/26
+//Class: MSCI-272
+//Purpose: Use overloaded functions in order to calculate area and perimeter of both circles and rectangles
+// Creating this program will also deepen my understanding of how function overloading works
 #include <iostream>
 #include <cmath>
 // Circle Area
